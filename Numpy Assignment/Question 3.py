@@ -1,0 +1,5 @@
+import numpy as np
+
+array = np.arange(1, 21).reshape(4, 5)
+print("Matrix:")
+print(array)
